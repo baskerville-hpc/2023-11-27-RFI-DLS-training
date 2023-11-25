@@ -35,6 +35,27 @@ Repository for materials used at the Baskerville Training workshop held for our 
 | 14:45 - 15:45 | Intro to Baskerville Portal | Introduction to GUI, `conda` environments | 1h | Jenny | Gavin |
 | 15:45 - 16:00 | Wrap-up and close | Signposts to further resources, getting support from the Baskerville RSE service, and feedback | 15m | James | Simon |
 
+## Contents
+
+```bash
+2023-11-27-RFI-DLS-training
+├── LICENSE.md
+├── README.md
+├── docs
+│   ├── 01-intro-to-baskerville-hpc
+│   ├── 02-RELION
+│   ├── 03-data-transfers-with-globus
+│   ├── 04-interactive-jobs
+│   ├── 05-batch-jobs
+│   ├── 06-intro-to-profiling
+│   ├── 07-pip-and-containers
+│   └── 08-baskerville-portal
+├── img
+└── src
+    ├── 01-intro-to-baskerville-hpc
+    ├── ...
+```
+
 ## Support
 
 For technical user support, email us at [baskerville-tier2-support@contacts.bham.ac.uk](mailto:baskerville-tier2-support@contacts.bham.ac.uk)
