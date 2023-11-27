@@ -1,6 +1,6 @@
 ---
 title: "Introduction to Baskerville: File Transfers with Globus"
-author: "James Allsopp and Baskerville Team"
+author: "James Allsopp and the Baskerville Team"
 format:
   revealjs:
     incremental: false
