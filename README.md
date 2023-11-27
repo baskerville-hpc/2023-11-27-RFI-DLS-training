@@ -14,7 +14,7 @@ Repository for materials used at the Baskerville Training workshop held for our 
 | --- | --- | --- | --- | --- | --- |
 | 11:00 - 12:00 | Intro to Baskerville HPC | Introduction to the cluster, logging in | 1h | Jenny | Simon |
 | 12:00 - 13:00 | Lunch | – | 1h | – | – |
-| 13:30 - 14:00 | RELION (part 1) | Presentation and Practical demo | 30m | Dimitrios | Gavin |
+| 13:00 - 14:00 | RELION (part 1) | Presentation and Practical demo | 1h | Dimitrios | Gavin |
 | 14:00 - 14:15 | Break | – | 15m | – | – |
 | 14:15 - 15:15 | RELION (part 2) | Practical demo | 1h | Gavin | Dimitrios |
 | 15:15 - 15:30 | Break | – | 15m | – | – |
