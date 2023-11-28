@@ -13,4 +13,16 @@ apptainer exec lolcow_latest.sif cowsay moo
 #SBATCH --mem-per-cpu=2096       # Maximum memory required per CPU (in megabytes)
 #SBATCH --job-name=apptainer-test
  
-apptainer exec docker://unlhcc/spades spades.py <spades arguments>
+apptainer exec lolcow_latest.sif cowsay moo
+
+
+#!/bin/bash
+#SBATCH --nodes=1
+#SBATCH --ntasks-per-node=1
+#SBATCH --cpus-per-task=42
+#SBATCH --mem-per-cpu=3850
+#SBATCH --gres=gpu:1
+#SBATCH --time=08:00:00
+#SBATCH --account=suxxx-somebudget
+
+srun apptainer exec--nv ./tensorflow_21.10-tf1-py3.sif python3 ./tf1-benchmarks/scripts/tf_cnn_benchmarks/tf_cnn_benchmarks.py --model resnet50 --num_gpus=1 --xla --batch_size=256
