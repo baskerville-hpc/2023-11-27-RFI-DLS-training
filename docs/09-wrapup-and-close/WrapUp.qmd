@@ -1,0 +1,53 @@
+---
+title: "Thanks for coming!"
+author: "The Baskerville Team"
+format:
+  revealjs:
+    incremental: false
+    theme: moon
+    footer: "More information and links"
+    logo: RSG.png
+    css: logo.css
+    fig-cap-location: margin
+    code-line-numbers: true
+    fontsize: 30px
+    width: 1500
+    link-external-icon: true
+---
+
+## Please fill in the feedback form
+
+
+![Feedback form](feedback.png){height=450  fig-align=center}
+
+[https://forms.gle/f8sALh2VNFzsaUqj8](https://forms.gle/f8sALh2VNFzsaUqj8){.external}
+
+
+## Ways to get in touch
+
+:::: {.columns}
+::: {.column width="55%"}
+
++ Slack **baskerville-rse on ukrse.slack.com**
++ E-mail **baskerville-tier2-support@contacts.bham.ac.uk**
+:::
+::: {.column width="45%"} 
+
+![UK RSE Slack channel](Slack.png){height=450}
+:::
+::::
+
+## Ways to get more help
+
++ We offer one-to-one coaching sessions for Baskerville related work.
+* This could be a single session over zoom or a number of sessions spread over a couple of weeks.
+
++ Baskerville Cheatsheet [https://docs.baskerville.ac.uk/cheatsheet/](https://docs.baskerville.ac.uk/cheatsheet/{.external)
+
+## RSE jobs available at University of Birmingham
+
+
+![Jobs QR code](jobs.png){height=350  fig-align=center}
+
+[https://edzz.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_6001/job/3492/?utm_medium=jobshare](https://edzz.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_6001/job/3492/?utm_medium=jobshare){.external}
+
