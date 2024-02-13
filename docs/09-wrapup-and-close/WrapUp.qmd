@@ -13,6 +13,7 @@ format:
     fontsize: 30px
     width: 1500
     link-external-icon: true
+  pdf: default
 ---
 
 ## Please fill in the feedback form
